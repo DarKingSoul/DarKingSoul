@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola, Soy Marvin Salcedo, 
 
-<!--
-**DarKingSoul/DarKingSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Ingeniero en Sistemas de Software*
 
-Here are some ideas to get you started:
+Soy un estudiante de la **Universidad Central del Ecuador** que le gusta mucho la tecnología, programación, los videojuegos y la aviacion. Como pasatiempo me gusta jugar video juegos con mis amigos y bailar aunque no lo haga muy bien xd. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frase de Vida**
+> Vive una vida que solo tu recuerdes ^^ 
+
+## Comando más usados en linux
+
+| Comando | Definicion |
+|---------|------------|
+|pwd      |Sirve para saber la ruta del directorio actual|
+|cd       |Para moverse entre directorios|
+|ls       |Lista los archivos del directorio|
+|mkdir    |Crear carpetas|
+|touch    |Crea archivos|
+
+## Comandos Alias
+
+| Alias | Comando | Definición |
+|-------|---------|------------|
+|cl     |clear    |Limpia la terminal|
+|
