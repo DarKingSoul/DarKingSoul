@@ -18,8 +18,10 @@ Soy un estudiante de la **Universidad Central del Ecuador** que le gusta mucho l
 |touch    |Crea archivos|
 
 ## Comandos Alias
+```sh
+alias cl=clear
+```
+```sh
+alias mostused='history | awk '\''{print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
 
-| Alias | Comando | Definición |
-|-------|---------|------------|
-|cl     |clear    |Limpia la terminal|
-|
